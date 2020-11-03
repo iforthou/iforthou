@@ -26,7 +26,7 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "True"
-          SHOW_SHORT_INFO: "False"
+          SHOW_SHORT_INFO: "True"
           SHOW_LOC_CHART: "False"
           SHOW_PROJECTS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
