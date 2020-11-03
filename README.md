@@ -17,6 +17,18 @@ I'm **iForthou**
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
 <!--START_SECTION:waka-->
+**🐱 My Github Data** 
+
+> 🏆 63 Contributions in the Year 2020
+ > 
+> 📦 0 Bytes Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 21 Public Repositories
+ > 
+> 🔑 0 Private Repository 
+ > 
 **I'm an Early 🐤** 
 
 ```text
