@@ -1,12 +1,17 @@
 name: Wakatime Readme
 
+# on:
+#   watch:
+#     types: started
+#   push:
+#     branches: [ master ]
+#   schedule:
+#     - cron: '* * * * *'
 on:
-  watch:
-    types: started
   push:
+    branches: [ main ]
+  pull_request:
     branches: [ master ]
-  schedule:
-    - cron: '* * * * *'
 
 jobs:
   update-readme:
