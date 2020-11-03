@@ -6,7 +6,7 @@
 
 I'm **iForthou**
 
-- 🔭 I’m currently working on: free
+- 🔭 I’m currently working on: freedom
 - 🌱 I’m currently learning: Python, JS, Go
 - 👯 I’m collaborating on: [NoneBot](https://github.com/nonebot)
 - 💬 Ask me about: [iForthou](https://iforthou.com)
