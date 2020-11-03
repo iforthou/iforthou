@@ -17,20 +17,6 @@ I'm **iForthou**
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 63 Contributions in the Year 2020
- > 
-> 📦 0 Bytes Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 21 Public Repositories
- > 
-> 🔑 0 Private Repository 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -69,32 +55,10 @@ Markdown                 13 mins             █░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  5 hrs 13 mins       █████████████████████████   100.0%
 
-🐱‍💻 Projects: 
-annie                    2 hrs 27 mins       ███████████░░░░░░░░░░░░░░   46.87% 
-forthou.com              1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   37.14% 
-forthou-com-nginx-102916314 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.54% 
-Unknown Project          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
-forthou-com-nginx-10311259 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.87%
-
 💻 Operating System: 
 Mac                      5 hrs 13 mins       █████████████████████████   100.0%
 
 ```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Python                   1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-JavaScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-HTML                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/iforthou/iforthou/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
