@@ -19,13 +19,13 @@ I'm **iForthou**
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 74 Contributions in the Year 2020
+> 🏆 75 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories
+> 📜 22 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 
