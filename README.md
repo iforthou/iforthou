@@ -19,7 +19,7 @@ I'm **iForthou**
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 67 Contributions in the Year 2020
+> 🏆 68 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -74,6 +74,10 @@ PyCharm                  0 secs              ░░░░░░░░░░░�
 Mac                      6 hrs 8 mins        █████████████████████████   100.0%
 
 ```
+
+**Timeline**
+
+![Chart not found](https://github.com/iforthou/iforthou/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
