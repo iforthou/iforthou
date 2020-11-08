@@ -21,7 +21,7 @@ I'm **iForthou**
 
 **🐱 My Github Data** 
 
-> 🏆 80 Contributions in the Year 2020
+> 🏆 81 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
