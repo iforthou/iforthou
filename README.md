@@ -21,13 +21,13 @@ I'm **iForthou**
 
 **🐱 My Github Data** 
 
-> 🏆 82 Contributions in the Year 2020
+> 🏆 83 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 22 Public Repositories
+> 📜 23 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 
