@@ -27,9 +27,9 @@ I'm **iForthou**
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 24 Public Repositories
+> 📜 24 Public Repositories 
  > 
-> 🔑 0 Private Repository 
+24 Private Repository 
  > 
 **I'm an Early 🐤** 
 
