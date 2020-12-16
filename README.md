@@ -29,7 +29,7 @@ I'm **iForthou**
  > 
 > 📜 24 Public Repositories 
  > 
-24 Private Repository 
+> 🔑 0 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
